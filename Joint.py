@@ -35,7 +35,7 @@ class Joint:
         :type frq_cp: double
         :return: Joint
         :rtype: Joint
-
+        une modification pour voir 
         """
         # seg_phi_dist should be expressed at the origin
         nb_frame = segment_dist.Tprox.T_homo.shape[2]
